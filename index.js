@@ -1,5 +1,5 @@
 var mysql = require("mysql");
-var inquirer = require("inquirer");
+var inquirer = import("inquirer");
 var consoleTable = require("console.table");
 var figlet = require('figlet');
 
@@ -15,11 +15,11 @@ console.log(data)
 var connection = mysql.createConnection({
   host: "localhost",
 
-  port: 3001,
+  port: 3306,
 
   user: "root",
 
-  password: "",
+  password: "Runzacish8",
   database: "employeeDb"
 });
 
@@ -439,3 +439,4 @@ function updateEmployeeMng() {
     })
    })
 };
+

@@ -12,8 +12,11 @@ This is an Employee Tracker app for business owners to manage the departments, r
 - Watch video for instructions
 
 ## Instruction video
-https://drive.google.com/file/d/1jCN-b2dfa5QS49AqDdRnFmsXE-ee8Jvf/view 
 
-https://youtu.be/RCXLIBfh1vA 
+▼ Click link below for instruction video ▼
+* https://youtu.be/RCXLIBfh1vA *
 
 ## Screenshot
+![Capture](https://user-images.githubusercontent.com/109838413/205793223-7dea8924-b82a-40b7-806b-ad7447644770.PNG)
+![Capture 1](https://user-images.githubusercontent.com/109838413/205793227-3b241d93-bd6d-46c1-b2c5-e0dfb526feaf.PNG)
+

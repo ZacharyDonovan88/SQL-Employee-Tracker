@@ -1,4 +1,4 @@
-USE employeeDb;
+USE employeeTrackerDb;
 INSERT INTO departments (name) VALUES 
 ("Finance"),
 ("Marketing"),
@@ -26,4 +26,4 @@ INSERT INTO employees (first_name, last_name, role_id, manager_id, department_id
 ("Steve", "Jackson", 2, 4, 1),
 ("Marcus", "Gin", 4, 5, 2),
 ("Esther", "Frementon", 9, NULL, 5),
-("Jo", "Pablo", 10, 9, 5),
+("Jo", "Pablo", 10, 9, 5);

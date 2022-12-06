@@ -1,5 +1,5 @@
-var mysql = require("mysql");
-var inquirer = import("inquirer");
+var mysql = require("mysql2");
+var inquirer = require("inquirer");
 var consoleTable = require("console.table");
 var figlet = require('figlet');
 
@@ -20,7 +20,7 @@ var connection = mysql.createConnection({
   user: "root",
 
   password: "Welcome@123",
-  database: "employeeDb"
+  database: "employeeTrackerDb"
 });
 
 connection.connect(function(err) {
